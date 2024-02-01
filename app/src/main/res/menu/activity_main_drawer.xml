@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Main">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_home"
+                    android:icon="@drawable/ic_baseline_home_24"
+                    android:title="@string/menu_home" />
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_baseline_info_24"
+                    android:title="About US" />
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/ic_baseline_contact_support_24"
+                    android:title="Contact Us" />
+                <item
+                    android:id="@+id/nav_visit"
+                    android:icon="@drawable/ic_baseline_web_24"
+                    android:title="Visit our website" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="for us">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/home_nav8"
+                    android:icon="@drawable/rate"
+                    android:title="Rate_us"/>
+                <item
+                    android:id="@+id/home_nav9"
+                    android:icon="@drawable/ic_baseline_share_24"
+                    android:title="Share"/>
+            </group>
+        </menu>
+    </item>
+</menu>

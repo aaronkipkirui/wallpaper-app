@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cool HD Wallpapers</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="got_it">GOT IT</string>
+    <string name="welcome">Powered by Kayvans Codes.</string>
+    <string name="slide1_desc">This is now integrated with more features Lesson Videos and audio at once. You can also save notes.</string>
+    <string name="slide1_title">Grab a copy of Adventist Lesson Study</string>
+    <string name="slide2_desc">Install Apps from Kayvans Codes</string>
+    <string name="slide2_title">Status Saver App, you can use the app to save Facebook  and Whatsapp status at once it fails not.</string>
+    <string name="slide3_desc">Music App player developed by Kayvans Codes it fails not try it today and you will love it!!.</string>
+    <string name="slide3_title">Try the music player.</string>
+    <string name="slide4_desc">In case you need anything to do with web development, IOS App, Android App, Graphics or any IT problem Email us!!.</string>
+    <string name="slide4_title">Want some more interesting stuffs?</string>
+
+    <string name="get_started">Install</string>
+    <string name="check_it_out">Email Us</string>
+    <string name="disclammer"><b>We have no borders we help all. Country Doesn\'t matter, but service we provide.</b></string>
+    <string name="powered_by_kayvans_codes">Powered By: Kayvans Codes</string>
+    <string name="kayvanscodes_gmail_com">kayvanscodes@gmail.com</string>
+    <string name="dedication">Dedicated to COSC class of 2023, Chuka University, Kenya</string>
+</resources>
